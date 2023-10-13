@@ -1,0 +1,17 @@
+galaxy_info:
+  role_name: astudio_publish
+  author: studioansible
+  description: desc
+  company: fa
+  issue_tracker_url: frs
+  license: MIT
+  min_ansible_version: '3.4'
+  min_ansible_container_version: '5.6'
+  github_branch: master
+  galaxy_tags:
+    - tag1
+  platforms:
+    - name: macOS
+      versions:
+        - all
+dependencies: []
