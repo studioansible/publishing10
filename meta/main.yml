@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: astudio_publish
   author: studioansible
-  description: desc
+  description: testing if publishing roles works
   company: fa
   issue_tracker_url: frs
   license: MIT
@@ -9,7 +9,7 @@ galaxy_info:
   min_ansible_container_version: '5.6'
   github_branch: master
   galaxy_tags:
-    - tag1
+    - postman
   platforms:
     - name: macOS
       versions:
