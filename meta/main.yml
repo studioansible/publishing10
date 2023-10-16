@@ -1,5 +1,5 @@
 galaxy_info:
-  role_name: astudio_publish
+  role_name: astudio_publish1
   author: studioansible
   description: testing if publishing roles works
   company: fa
@@ -14,4 +14,7 @@ galaxy_info:
     - name: macOS
       versions:
         - all
-dependencies: []
+dependencies: 
+  - name: geerlingguy.java
+    version: 3.3.0
+
